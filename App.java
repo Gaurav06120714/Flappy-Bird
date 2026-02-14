@@ -1,5 +1,6 @@
-import javax.swing.*;
 import java.awt.*;
+import javax.swing.*;
+import java.awt.image.BufferedImage;
 
 public class App {
     public static void main(String[] args) {
