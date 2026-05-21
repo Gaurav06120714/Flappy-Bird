@@ -14,6 +14,9 @@ A fully playable Flappy Bird clone built with Python + Pygame. No external asset
 - High score tracking across rounds
 - Start screen + Game Over screen with retry
 - Mouse click or keyboard controls
+- **Difficulty scaling** — pipes get faster every 10 points
+- **Medal system** — Bronze / Silver / Gold based on score
+- **Sound effects** — flap, score, and death sounds (optional)
 
 ---
 
