@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-GUI-007396?style=for-the-badge&logo=java&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge)
+
 # 🐦 Flappy Bird — Python Edition
 
 A fully playable Flappy Bird clone built with Python + Pygame. No external assets needed — all graphics are drawn with pygame primitives.
